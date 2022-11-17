@@ -26,5 +26,5 @@ Yukarıdaki  * ve ** dizilerini de sıralama yaptığımızda en küçük olanla
 
 ```
 
-Big O gösterimi = Her adımda  n elemanlı diziyi 2 ye bölme işlemi yaparız. Bu da ```bash 2^x = n``` verir. Buradan O(nlogn) gelecektir.
+Big O gösterimi = Her adımda  n elemanlı diziyi 2'ye bölme işlemi yaparız. Bu da 2^x = n verir. Buradan O(nlogn) gelecektir.
 
