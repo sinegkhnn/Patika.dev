@@ -40,3 +40,24 @@ Time Complexity 18 için;
 Dizini son hali [2,6,16,18,22,27] olduğu için Average case yani aradığımız sayının ortada olmasıdır.
 
 
+
+
+
+
+
+
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımı aşağıdadır.
+
+1.Adım 
+[2,3,5,8,7,9,4,15,6]  2 ile 7 yer değişir.
+
+2.Adım 
+[2,3,4,8,7,9,5,15,6] 4 ile 5 yer değişir.
+
+3.Adım 
+[2,3,4,5,7,9,8,15,6]  5 ile 8 yer değişir.
+
+4.Adım
+[2,3,4,5,6,9,8,15,7]  6 ile7 yer değişmiş olur.
+
+
