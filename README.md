@@ -1,2 +1,2 @@
 # Patika.dev
-Insertion Sort
+Selection Sort
