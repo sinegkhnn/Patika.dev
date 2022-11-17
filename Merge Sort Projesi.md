@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  Selection Sort Projesi
+  Merge Sort Projesi
 </h1>
 
 
