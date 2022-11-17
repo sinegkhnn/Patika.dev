@@ -1,6 +1,11 @@
 # Patika.dev
 
 
+<h1 align="center">
+  Selection Sort Projesi
+</h1>
+
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 1.Adım: 
