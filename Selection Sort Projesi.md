@@ -8,14 +8,13 @@
 
 [22,27,16,2,18,6] -> Insertion Sort
 
-**1.Adım: **
-
+**1.Adım:**
 [22,27,16,2,18,6] olarak verilen dizide en küçük sayı bulunur. Bu dizide 6.
 En küçük sayı en başa yazılır. En baştaki sayı ile aslında yer değiştirmiş olur.
 
 Yani [2,27,16,22,18,6] elde ederiz.
 
-** 2.Adım:**
+**2.Adım:**
 Daha sonra [2,27,16,22,18,6] dizisinde artık en baştaki en küçük sayımız olduğunu bulduk. İkinci sıradan sonrasındakilere bakmamız gerekiyor. 27,16,22,18,6 arasından
 En küçük 6 olacağından 27 ile yer değişir. 
 
