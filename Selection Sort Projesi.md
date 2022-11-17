@@ -1,4 +1,4 @@
-# Patika.dev
+# ☕ Patika.dev 
 
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 [22,27,16,2,18,6] -> Insertion Sort
 
-1.Adım: 
+<bold>1.Adım: </bold>
 [22,27,16,2,18,6] olarak verilen dizide en küçük sayı bulunur. Bu dizide 6.
 En küçük sayı en başa yazılır. En baştaki sayı ile aslında yer değiştirmiş olur.
 
